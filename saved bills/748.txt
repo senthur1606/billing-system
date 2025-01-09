@@ -1,0 +1,26 @@
+		**Welcome Customer**
+
+Bill Number:748
+
+customer Number:vicky
+
+customer phone Number:263632746
+
+===================================================product		Qty			price
+===================================================Bath Soap		1			20 Rs
+Face Cream		1			50 Rs
+Hair Spray		1			150 Rs
+Body Lotion		1			60 Rs
+Oil		1			90 Rs
+Daal		1			120 Rs
+Maaza		1			200 Rs
+Sprite		1			120 Rs
+Cococola		1			90 Rs
+
+---------------------------------------------------
+Cosmetic Tax			16.8Rs
+Grocery Tax			10.5Rs
+Drinks Tax			32.8Rs
+Total Bill			960.0999999999999 Rs
+---------------------------------------------------				Thank You!
+

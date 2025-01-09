@@ -1,0 +1,20 @@
+		**Welcome Customer**
+
+Bill Number:194
+
+customer Number:fakhar
+
+customer phone Number:987743964
+
+===================================================product		Qty			price
+===================================================Bath Soap		1			20 Rs
+Oil		1			90 Rs
+Cococola		2			180 Rs
+
+---------------------------------------------------
+Cosmetic Tax			1.0Rs
+Grocery Tax			4.5Rs
+Drinks Tax			14.4Rs
+Total Bill			309.9 Rs
+---------------------------------------------------				Thank You!
+

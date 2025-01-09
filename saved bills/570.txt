@@ -1,0 +1,24 @@
+		**Welcome Customer**
+
+Bill Number:570
+
+customer Number:rohan
+
+customer phone Number:7589898938
+
+===================================================product		Qty			price
+===================================================Face Cream		1			50 Rs
+Face Wash		2			200 Rs
+Suger		1			75 Rs
+Tea Powder		2			180 Rs
+Maaza		1			200 Rs
+Pepsi		1			90 Rs
+Cococola		1			90 Rs
+
+---------------------------------------------------
+Cosmetic Tax			12.5Rs
+Grocery Tax			12.75Rs
+Drinks Tax			30.400000000000002Rs
+Total Bill			940.65 Rs
+---------------------------------------------------				Thank You!
+

@@ -1,0 +1,23 @@
+		**Welcome Customer**
+
+Bill Number:135
+
+customer Number:sakhil
+
+customer phone Number:4838884455
+
+===================================================product		Qty			price
+===================================================Bath Soap		1			20 Rs
+Hair Spray		1			150 Rs
+Rice		1			200 Rs
+Oil		1			90 Rs
+Tea Powder		1			90 Rs
+Cococola		2			180 Rs
+
+---------------------------------------------------
+Cosmetic Tax			8.5Rs
+Grocery Tax			19.0Rs
+Drinks Tax			14.4Rs
+Total Bill			771.9 Rs
+---------------------------------------------------				Thank You!
+

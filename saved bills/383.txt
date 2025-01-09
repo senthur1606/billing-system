@@ -1,0 +1,20 @@
+		**Welcome Customer**
+
+Bill Number:383
+
+customer Number:karan
+
+customer phone Number:6723238332
+
+===================================================product		Qty			price
+===================================================Bath Soap		1			20 Rs
+Daal		3			360 Rs
+Fizz		2			260 Rs
+Frooti		1			75 Rs
+
+---------------------------------------------------
+Cosmetic Tax			1.0Rs
+Grocery Tax			18.0Rs
+Drinks Tax			26.8Rs
+Total Bill			760.8 Rs
+---------------------------------------------------
